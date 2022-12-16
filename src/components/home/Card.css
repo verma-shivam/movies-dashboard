@@ -1,0 +1,10 @@
+.cardEffect {
+  transform: translateY(43px);
+  cursor: pointer;
+  transition: 0.4s all ease-in;
+}
+
+.cardEffect:hover {
+  background-color: rgba(223, 223, 223, 0.062);
+  transform: translateY(0px);
+}
